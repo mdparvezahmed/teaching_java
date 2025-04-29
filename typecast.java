@@ -3,7 +3,8 @@ public class typecast {
         int num = 100;
 
         double xy = num;
-
+        // https://github.com/mdparvezahmed/teaching_java
+        // https://github.com/mdparvezahmed/teaching_java
         double pp = 129;
         int ggd = (int)pp;
         
@@ -11,7 +12,7 @@ public class typecast {
         long nmm = (long)longrun;
 
         int floattointeger = (int)longrun;
-        
+
 
         System.out.println(floattointeger);
 
