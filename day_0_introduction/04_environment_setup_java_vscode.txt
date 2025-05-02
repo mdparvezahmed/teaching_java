@@ -1,0 +1,6 @@
+1. download jdk(java devlopment kit)--java compiler
+2. install 
+3. check terminal: java --version
+4. download vs code
+5. install java extention from vs code extentions
+

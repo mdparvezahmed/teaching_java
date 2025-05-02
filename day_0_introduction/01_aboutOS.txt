@@ -1,0 +1,9 @@
+OS(Operating System)
+----------------------
+android(for phone)
+windows(for desktop/laptop)
+
+mac os(for apple desktop/laptop)
+IOS (for iphone)
+
+linux (for desktop) //mostly used for server

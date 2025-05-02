@@ -1,0 +1,38 @@
+android:
+    .apk    -Android package
+    .aab    -android app bundle
+
+windows
+    .exe    -executable file
+    .msi    -microsoft installer
+
+MacOS:
+    .app    -application bundle
+    .dmg    -Disk image
+    .pkg    -installer package
+
+linux:
+    .AppImage   - Portable Application Image
+
+    .deb        -Debian Package (Ubuntu, Debian)
+
+    .rmp        -Red Hat Package Manager (Fedora, CentOS)
+
+    .tar.gz     -Compressed Archive (source or binary)
+    .sh         -shell script
+
+IOS:
+    .ipa    -ios app Archive
+
+web:
+    .html   -web page
+    .js     -javaScript Application
+    .webapp -Web app manifest(firefox OS)
+
+Cross-platform (via Java or other runtimes):
+    .jar  -java Archive
+    .war    -web application Archive
+    .py     -python script(requires python)
+    .bat    -windows batch file
+
+

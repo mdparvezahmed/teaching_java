@@ -1,0 +1,31 @@
+picture extention name:
+    .jpg
+    .png
+    .jpeg
+    .bmp
+
+text file extention name:
+    .txt
+
+document file extention name:
+    .doc
+    .pdf
+
+video extention name:
+    .mp4
+    .mkv
+    .avi
+
+executable file extention name(for windows):
+    .exe
+    .msi
+programming language extention name:
+
+    language    extention-name
+    C           .c 
+    C++         .cpp
+    java        .java
+    python      .py 
+    dart        .dart
+    
+
