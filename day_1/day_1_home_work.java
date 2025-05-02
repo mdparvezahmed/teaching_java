@@ -1,4 +1,4 @@
-public class Homework {
+public class day_1_home_work {
 
     public static void main(String[] df) {
 

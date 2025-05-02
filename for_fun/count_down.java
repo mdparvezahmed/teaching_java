@@ -1,4 +1,4 @@
-public class count{
+public class count_down{
 
     static int summation(int a, int b){
         return a+b;

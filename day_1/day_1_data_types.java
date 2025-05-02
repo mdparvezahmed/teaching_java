@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class basci {
+public class day_1_data_types {
     public static void main(String[] args) {
         //update: someting ar jaigi anything print korbo.
         System.out.println("something");
